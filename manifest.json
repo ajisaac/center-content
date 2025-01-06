@@ -1,0 +1,13 @@
+{
+  "name": "Center Content",
+  "description": "Center and constrain webpage content",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_icon": "icon-on.png"
+  },
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
