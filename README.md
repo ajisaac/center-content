@@ -4,8 +4,8 @@ Some websites were designed in the 90s when monitors were 800x600. They are usua
 styling. This especially occurs on academic websites. But if you have a 32 inch 4k monitor, the text will span accross
 the entire page and be difficult to read.
 
-This plugin adds a simple on off button to your browser for the current page to center the content and add a maxwidth to
-the page.
+This plugin adds a simple icon to your browser. Click once to turn on, click again to turn off. It simply adds or 
+removes 2 styles to the body of the current page.
 
 ## Before and After
 
@@ -14,3 +14,7 @@ Before:
 After:
 <img width="2560" alt="image" src="https://github.com/user-attachments/assets/36be9ef6-bd90-4e06-a3a1-f936709e4c06" />
 
+## Installation
+
+You can just download this project, then in `chrome://extensions` turn on developer mode using the toggle in the top 
+right and click `Load Unpacked` in the top left, then choose the folder containing this code.
