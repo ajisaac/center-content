@@ -7,6 +7,8 @@ the entire page and be difficult to read.
 This plugin adds a simple icon to your browser. Click once to turn on, click again to turn off. It simply adds or 
 removes 2 styles to the body of the current page.
 
+This plugin is complete, no other changes to be made.
+
 ## Before and After
 
 Before:
@@ -18,3 +20,8 @@ After:
 
 You can just download this project, then in `chrome://extensions` turn on developer mode using the toggle in the top 
 right and click `Load Unpacked` in the top left, then choose the folder containing this code.
+
+## Todo
+
+- [ ] Add code to switch between on and off icons
+- [ ] Improve the icons coloring and design
