@@ -7,7 +7,7 @@ the entire page and be difficult to read.
 This plugin adds a simple icon to your browser. Click once to turn on, click again to turn off. It simply adds or 
 removes 2 styles to the body of the current page.
 
-This plugin is complete, no other changes to be made.
+This plugin is mostly complete. May add a few enhancements, but only a few.
 
 ## Before and After
 
@@ -25,3 +25,4 @@ right and click `Load Unpacked` in the top left, then choose the folder containi
 
 - [ ] Add code to switch between on and off icons
 - [ ] Improve the icons coloring and design
+- [ ] Remember settings for each page so we don't have to click each time we load.
