@@ -25,7 +25,8 @@ right and click `Load Unpacked` in the top left, then choose the folder containi
 
 - [ ] Add code to switch between on and off icons
 - [ ] Improve the icons coloring and design
-- [ ] Remember settings for each page so we don't have to click each time we load.
+- [ ] Remember settings for each page so we don't have to click each time we load
 - [ ] Remember settings for domain, so we maintain settings between reloads
 - [ ] Allow us to adjust the width
 - [ ] Don't mess up margins when unsetting
+- [x] Only do left right margins, not top bottom
